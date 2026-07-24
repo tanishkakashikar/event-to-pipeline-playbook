@@ -1,8 +1,6 @@
 # Event to Pipeline Playbook
 
-14 events. $850K+ in pipeline. This is the framework, not the internal script.
-
-Most B2B SaaS event marketing is "buy a ticket, hope for the best." The framework below is what turned events from brand presence into a measurable pipeline channel.
+14 in-person events, 260+ demos booked, $850K+ qualified pipeline. Combined with virtual events, total event motion pipeline: $1.2M+.
 
 **Stack:** HubSpot · Apollo · Clay · HeyReach · Sales Navigator · Calendly · Notion
 
@@ -10,62 +8,95 @@ Most B2B SaaS event marketing is "buy a ticket, hope for the best." The framewor
 
 ## Table of contents
 
-1. [Why I built this](#why-i-built-this)
-2. [What I owned](#what-i-owned)
-3. [How the system worked](#how-the-system-worked)
-4. [Tools used](#tools-used)
-5. [Results](#results)
-6. [What I learned](#what-i-learned)
-7. [What this shows](#what-this-shows)
+1. [What I owned](#what-i-owned)
+2. [How the system worked](#how-the-system-worked)
+3. [Virtual events](#virtual-events)
+4. [Year two: scaling with a team](#year-two-scaling-with-a-team)
+5. [Tools used](#tools-used)
+6. [Results](#results)
+7. [Principles](#principles)
 
 ---
 
-## Why I built this
-
-Event budget kept getting approved. Event pipeline attribution kept looking flat. The gap wasn't the events; it was the operating model around them.
-
 ## What I owned
 
-- Event selection scoring (ICP density, buyer seniority, category fit)
-- Pre-event target list build and outreach across email and LinkedIn
-- AE calendar engineering before the event
-- On-site logistics and marketing support during the event
-- Post-event follow-up sequences and retargeting audiences
-- Event-level pipeline reporting
+Year one, solo marketer alongside the founder for most events:
+
+- Pre-event attendee list outreach
+- Post-event attendee list outreach
+- On-the-spot demo booking at the booth
+- On-the-ground demos delivered with the founder
+- Post-event follow-up and nurture
+
+Year two, with a hired team:
+
+- ROI scoping from year one to size year two's event budget
+- Hiring the events marketer
+- AE allocation across events and booths
+- Booth allocation and partner-collab booths
+- Event contracts and annual partnership agreements with event organizations
+- Loyal customer advocates at the booth to speak directly with prospects
+- On-the-floor training for new AEs to book demos in real time
+
+---
 
 ## How the system worked
 
-The value of an event is not the event. It's the 40 days around it.
+**Pre-event.** Pull the attendee list. Outreach to top targets before the event with a specific meeting ask.
 
-**Phase 1: Selection.** Score every event on ICP density, buyer seniority, and trigger fit. Kill events that don't score on all three.
+**On-site.** Founder and me at the booth for most of year one. On-the-spot demo bookings. Live capture into HubSpot.
 
-**Phase 2: Pre-event.** Build the target list. Tier it. Run personalized outreach to Tier 1 through email and LinkedIn 30 to 7 days out. Goal is a pre-booked AE calendar before the AE lands.
+**Post-event.** Follow-up outreach to the full attendee list. Personalized messages to everyone who visited the booth or attended a relevant session. Nurture sequences for engaged accounts.
 
-**Phase 3: On-site.** AE runs the calendar. Marketing supports live with context briefs, overflow scheduling, and real-time capture.
+---
 
-**Phase 4: Post-event.** Day-one personalized follow-up. Multi-touch nurture for engaged accounts. Retargeting audience for 90 days. Debrief doc that changes the next event.
+## Virtual events
+
+- Founder-led webinars
+- Founder + live customer case study webinars
+- Demo Days
+- Boot Camps
+
+Combined virtual event motion contributed materially to the $1.2M total.
+
+---
+
+## Year two: scaling with a team
+
+The year-two shift wasn't just more events. It was a different operating model:
+
+- Partner-collab booths extended presence without adding booth budget
+- Annual partnership agreements with event organizations locked in cost efficiency
+- Customer advocates at the booth carried credibility a marketer or AE couldn't
+- New AEs got trained on the floor at real events instead of in a conference room
+
+---
 
 ## Tools used
 
 HubSpot · Apollo · Clay · HeyReach · Sales Navigator · Calendly · Notion
 
+---
+
 ## Results
 
-- 14 events in one season
-- $850K+ in pipeline
-- 200+ demos booked
-- Bootcamp campaign contributed $300K+ separately to the same motion
+- 14 in-person events in one season
+- 260+ demos booked from in-person events
+- 30+ demos booked for a single AE at one event
+- $850K+ qualified pipeline from in-person events
+- Virtual events (webinars, Demo Days, Boot Camps) added the remainder
+- Total event motion pipeline: $1.2M+
 
-## What I learned
+---
 
-- 10 focused events beat 14 unfocused events every time
-- The AE's calendar is the KPI, not the badges scanned
-- Post-event follow-up in the first 7 days is where money actually gets made
-- Cross-company booth partnerships extend presence without booth budget
+## Principles
 
-## What this shows
-
-I can turn events from brand presence into a measurable pipeline channel by building pre-event targeting, sales alignment, on-site capture, and post-event follow-up as a single operating system.
+- Solo event marketing works if the pre-event outreach is done properly
+- Founder presence at the booth is the differentiator when there isn't a full sales team yet
+- Customer advocates at the booth convert prospects faster than any pitch
+- Partner-collab booths extend presence without extra booth budget
+- Post-event follow-up in the first 7 days is where the pipeline actually gets locked in
+- AE training on the floor at real events beats any internal sales training
 
 ---
 
