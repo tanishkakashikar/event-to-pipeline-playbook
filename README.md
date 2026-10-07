@@ -1,6 +1,6 @@
 # Event to Pipeline Playbook
 
-14 in-person events, 260+ demos booked, $850K+ qualified pipeline. Combined with virtual events, total event motion pipeline: $1.2M+.
+14 in-person events, 260+ demos booked, $850K+ qualified pipeline. Combined with virtual events, total event motion pipeline: $1.6M+.
 
 **Stack:** HubSpot · Apollo · Clay · HeyReach · Sales Navigator · Calendly · Notion
 
@@ -57,7 +57,7 @@ Year two, with a hired team:
 - Demo Days
 - Boot Camps
 
-Combined virtual event motion contributed materially to the $1.2M total.
+Combined virtual event motion contributed materially to the $1.6M+ total.
 
 ---
 
@@ -85,7 +85,7 @@ HubSpot · Apollo · Clay · HeyReach · Sales Navigator · Calendly · Notion
 - 30+ demos booked for a single AE at one event
 - $850K+ qualified pipeline from in-person events
 - Virtual events (webinars, Demo Days, Boot Camps) added the remainder
-- Total event motion pipeline: $1.2M+
+- Total event motion pipeline: $1.6M+
 
 ---
 
